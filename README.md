@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Slav Kurochkin 👋</h1>
 
 <p align="center">
-  <b>AI Engineer • Lead SQE • Engineering Operations Lead</b><br>
+  <b>AI Engineer • Lead SQE / SDEt • Engineering Operations </b><br>
   Building AI-powered solutions, optimizing engineering operations, and leading quality-first cultures.
 </p>
 
