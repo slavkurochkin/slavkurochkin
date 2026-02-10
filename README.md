@@ -42,6 +42,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 ---
 
 ### 🚀 Projects
+- **[Software Release Agent (wip)](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
 - 🤖 **[AI-Powered Chrome Extension for Test Generation](https://github.com/slavkurochkin/step-recorder)** – Smart recording, error capture, and AI-powered test case generation with OpenAI integration. [Demo](https://youtu.be/4CQTml-aSp0)
 
