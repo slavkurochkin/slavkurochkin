@@ -41,16 +41,21 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
+
+### Developer Productivity and AIOps
 - 🤖 **[AI Release Risk Agent (wip)](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
-- 🤖 **[AI-Powered Chrome Extension for Test Generation](https://github.com/slavkurochkin/step-recorder)** – Smart recording, error capture, and AI-powered test case generation with OpenAI integration. [Demo](https://youtu.be/4CQTml-aSp0)
+- - 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
 
 - ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
 
-- 📄 **[ATS-Optimized Resumes with AI](https://github.com/slavkurochkin/side-filler)** – AI-optimizes resumes for job applications, tracks applications, and generates interview prep using RAG. [Demo](https://youtu.be/ZYt7vhjzPhs)
+- 🤖 **[AI-Powered Chrome Extension for Test Generation](https://github.com/slavkurochkin/step-recorder)** – Smart recording, error capture, and AI-powered test case generation with OpenAI integration. [Demo](https://youtu.be/4CQTml-aSp0)
 
-- 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
+
+### General Purpose (pet projects)
+
+- 📄 **[ATS-Optimized Resumes with AI](https://github.com/slavkurochkin/side-filler)** – AI-optimizes resumes for job applications, tracks applications, and generates interview prep using RAG. [Demo](https://youtu.be/ZYt7vhjzPhs)
 
 - 🔐 **[Secrets Manager Chrome Extension](https://github.com/slavkurochkin/chome-ext-pwd)** – Secure secrets management with CSV import/export functionality.
 
