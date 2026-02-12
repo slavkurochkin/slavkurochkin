@@ -75,7 +75,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### 🚀 Experience Highlights
 
-- 🏢 **Zillow** (Aug 2024 - Present) — AI Engineer | Lead SQE | Engineering Operations Lead
+- 🏢 **Zillow** (Aug 2024 - Present) — AI Engineer | SQE | Engineering Operations Lead
   - Designed and optimized RAG AI agents and AI workflow automation solutions
   - Developed observability dashboards using Datadog, Splunk, Grafana, and Databricks
   - Mentored teams on test automation best practices (Playwright, XCUITest, Espresso, Pact.io)
