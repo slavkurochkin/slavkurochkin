@@ -46,7 +46,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### Developer Productivity and AIOps
 
-- 🤖 **[AI Release Risk Agent (wip)](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
+- 🤖 **[AI Release Risk Agent](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
 - 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
 
