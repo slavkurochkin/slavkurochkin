@@ -17,8 +17,9 @@
 ### 🧠 What I Do
 
 - 🤖 **AI Engineering** — RAG Systems • AI Agents • LLM Evaluation • LangChain • LangSmith • Promptfoo • MLflow • n8n • AI Tools
-- 🔍 **Quality Engineering and Test Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
 - ⚙️ **Engineering Operations** — CI/CD Optimization • Observability Dashboards • Cross-Functional Leadership • Team Mentoring • AI Tools
+- 🔍 **Quality Engineering and Test Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
+
 
 ---
 
@@ -44,6 +45,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 ## 🚀 Projects
 
 ### Developer Productivity and AIOps
+
 - 🤖 **[AI Release Risk Agent (wip)](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
 - - 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
@@ -51,6 +53,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 - ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
 
 - 🤖 **[AI-Powered Chrome Extension for Test Generation](https://github.com/slavkurochkin/step-recorder)** – Smart recording, error capture, and AI-powered test case generation with OpenAI integration. [Demo](https://youtu.be/4CQTml-aSp0)
+
 
 
 ### General Purpose (pet projects)
