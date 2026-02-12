@@ -48,7 +48,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 - 🤖 **[AI Release Risk Agent (wip)](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
-- - 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
+- 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
 
 - ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
 
