@@ -46,7 +46,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### Developer Productivity and AIOps
 
-- 🤖 **[CI Sherklock](https://github.com/slavkurochkin/ci-sherlock-agent)** - CI Sherlock plugs into any GitHub Actions workflow. After your tests run, it correlates failed tests with the files changed in the PR, asks an LLM to reason about the root cause, posts a summary comment on the PR, and stores history for flaky test detection over time.
+- 🤖 **[CI Sherklock](https://github.com/slavkurochkin/ci-sherlock-agent)** - AI-powered CI failure investigation for GitHub Actions. Understands what changed, why tests broke, and what to fix.
 
 - 🤖 **[AI Release Risk Agent](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
 
