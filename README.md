@@ -46,6 +46,8 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### Developer Productivity and AIOps
 
+- 🤖 **[Journey Map]([https://github.com/slavkurochkin/ci-sherlock-agent](https://github.com/slavkurochkin/journey-map#journey-map))** - Turn recorded web sessions into visual user-journey maps, rich per-step context, and an agentic change-impact engine. [Demo](https://youtu.be/dkz9gwkS02I)
+
 - 🤖 **[CI Sherklock](https://github.com/slavkurochkin/ci-sherlock-agent)** - AI-powered CI failure investigation for GitHub Actions. Understands what changed, why tests broke, and what to fix.
 
 - 🤖 **[AI Release Risk Agent](https://github.com/slavkurochkin/release-agent)** - An AI-powered agent that analyzes release metadata (PR diffs, CI results, commit history, incident context) and produces structured risk assessments with GO/NO_GO decisions.
