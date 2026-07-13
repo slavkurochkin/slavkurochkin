@@ -60,6 +60,8 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### General Purpose (pet projects)
 
+- 📄 **[Signal Agent](https://github.com/slavkurochkin/signal-agent#signal-agent)** – Cut the noise. Keep the signal. A personal signal-filter + Q&A agent for software-engineering / AI-engineering content.
+
 - 📄 **[ATS-Optimized Resumes with AI](https://github.com/slavkurochkin/side-filler)** – AI-optimizes resumes for job applications, tracks applications, and generates interview prep using RAG. [Demo](https://youtu.be/ZYt7vhjzPhs)
 
 - 🔐 **[Secrets Manager Chrome Extension](https://github.com/slavkurochkin/chome-ext-pwd)** – Secure secrets management with CSV import/export functionality.
