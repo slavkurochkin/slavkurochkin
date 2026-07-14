@@ -51,9 +51,12 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 [Demo 2](https://youtu.be/pxaWElsUdao?si=Yygm-HlNG3-bjTS)
 [Demo 3](https://youtu.be/8Txqzb6VXr8?si=vRd0VcMl-zRKJ0fp)
 
-- 📄 **[Signal Agent](https://github.com/slavkurochkin/signal-agent#signal-agent)** – Cut the noise. Keep the signal. A personal signal-filter + Q&A agent for software-engineering / AI-engineering content.
-  
+- 🤖 **[Launch Auditor Agent](https://github.com/slavkurochkin/ux-critic-agent#launch-auditor-agent)** – A lean agent for fast promo-page validation when you do not want to build or maintain a full automation suite.
+
 - ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
+
+- 📄 **[Signal Agent](https://github.com/slavkurochkin/signal-agent#signal-agent)** – Cut the noise. Keep the signal. A personal signal-filter + Q&A agent for software-engineering / AI-engineering content.
+
 
 ### Developer Productivity and AIOps
 
