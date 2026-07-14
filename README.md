@@ -44,6 +44,17 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ## 🚀 Projects
 
+### AI Engineering
+
+- 🤖 **[Agentic AI Diagrams](https://github.com/slavkurochkin/ai-diagrams#agentflow)** – A visual canvas for designing and animating AI system diagrams — pipelines, RAG flows, agent architectures, and evaluation setups. 
+[Demo 1](https://www.youtube.com/watch?v=4YJb_T5kOEQ)
+[Demo 2](https://youtu.be/pxaWElsUdao?si=Yygm-HlNG3-bjTS)
+[Demo 3](https://youtu.be/8Txqzb6VXr8?si=vRd0VcMl-zRKJ0fp)
+
+- 📄 **[Signal Agent](https://github.com/slavkurochkin/signal-agent#signal-agent)** – Cut the noise. Keep the signal. A personal signal-filter + Q&A agent for software-engineering / AI-engineering content.
+  
+- ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
+
 ### Developer Productivity and AIOps
 
 - 🤖 **[Journey Map](https://github.com/slavkurochkin/journey-map#journey-map)** - Turn recorded web sessions into visual user-journey maps, rich per-step context, and an agentic change-impact engine. [Demo](https://youtu.be/dkz9gwkS02I)
@@ -54,15 +65,11 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 - 📊 **[Observability Service](https://github.com/slavkurochkin/ai-observability)** – Standalone observability service for tracking user events, UI interactions, and errors with RAG-powered pattern identification.
 
-- ✏️ **[Ultimate Prompt Manager](https://github.com/slavkurochkin/prompt-manager)** – AI-powered prompt refinement, quality scoring, and organization with LangChain integration. [Demo](https://youtu.be/10RZIlMgyMk)
-
 - 🤖 **[AI-Powered Chrome Extension for Test Generation](https://github.com/slavkurochkin/step-recorder)** – Smart recording, error capture, and AI-powered test case generation with OpenAI integration. [Demo](https://youtu.be/4CQTml-aSp0)
 
 
 
 ### General Purpose (pet projects)
-
-- 📄 **[Signal Agent](https://github.com/slavkurochkin/signal-agent#signal-agent)** – Cut the noise. Keep the signal. A personal signal-filter + Q&A agent for software-engineering / AI-engineering content.
 
 - 📄 **[ATS-Optimized Resumes with AI](https://github.com/slavkurochkin/side-filler)** – AI-optimizes resumes for job applications, tracks applications, and generates interview prep using RAG. [Demo](https://youtu.be/ZYt7vhjzPhs)
 
