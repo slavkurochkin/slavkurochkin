@@ -151,6 +151,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 - [DevOps and AI on AWS](https://coursera.org/share/78bc3ea571d7a595c592742773d60929)
 
 **Google**
+- [Google IT Automation with Python Professional Certificate](https://coursera.org/share/14cb7606c281e11c7e15340095f417a0)
 - [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/KKVEZ02O9FCL)
 - [Google Cloud Fundamentals: Core Infrastructure](https://coursera.org/share/6b08df134ce38cd34474099ad990c8ce)
 - [Developing a Google SRE Culture](https://coursera.org/share/f3b30466f3037e333d3c49d10269100c)
@@ -163,11 +164,18 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 - [Datadog Fundamentals](https://www.credly.com/badges/5eeeb160-520a-4a31-b77c-32bab132bf04/linked_in_profile)
 - [Log Management Fundamentals](https://www.credly.com/badges/ffd0243d-ec96-460f-a0e2-a021891ea47b/linked_in_profile)
 
+**LangChain**
+- [Foundation: Introduction to Agent Observability & Evaluations](https://academy.langchain.com/certificates/r489gtwb6e)
+- [Building Reliable Agents](https://academy.langchain.com/certificates/f33eb6nsc1)
+
 **Master Dev**
 - [Harness Engineering & Agent Orchestration](https://static.frontendmasters.com/ud/c/c950c27f41/VHFAXzrtUd/agent-harness-frontendmasters.pdf)
 - [Practical Prompt Engineering](https://static.frontendmasters.com/ud/c/c950c27f41/QrhipoBEtR/prompt-engineering.pdf)
 - [Complete Intro to MCP](https://static.frontendmasters.com/ud/c/c950c27f41/HVXvpeXurf/mcp.pdf)
 - [Cursor & Claude Code: Professional AI Setup](https://static.frontendmasters.com/ud/c/c950c27f41/OkWJDOLXlV/pro-ai.pdf)
+
+**The Linux Foundation**
+- [Getting Started with OpenTelemetry](https://www.credly.com/badges/0805b1d8-b088-407a-bc3d-be9c79ff8c25/public_url)
 
 **Udemy**
 - [Al Automation: Build LLM Apps & Al-Agents with n8n & APIs](ude.my/UC-ef15c7c1-039e-4a4b-81f0-24f93701e434)
