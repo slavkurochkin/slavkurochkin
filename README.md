@@ -142,6 +142,10 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### 🏆 Certifications
 
+**Anthropic**
+- [MCP Advanced Topics](https://verify.skilljar.com/c/6j3yvgspk8cn)
+- [Calude Code in Action](https://verify.skilljar.com/c/fntaraa6mckz)
+
 **AWS**
 - [AWS Generative AI and AI Agents with Amazon Bedrock](https://coursera.org/share/ec8b2ac4d7267a920fcca18f8f1816dc)
 - [DevOps and AI on AWS](https://coursera.org/share/78bc3ea571d7a595c592742773d60929)
@@ -159,7 +163,8 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 - [Datadog Fundamentals](https://www.credly.com/badges/5eeeb160-520a-4a31-b77c-32bab132bf04/linked_in_profile)
 - [Log Management Fundamentals](https://www.credly.com/badges/ffd0243d-ec96-460f-a0e2-a021891ea47b/linked_in_profile)
 
-**Frontend Masters**
+**Master Dev**
+- [Harness Engineering & Agent Orchestration](https://static.frontendmasters.com/ud/c/c950c27f41/VHFAXzrtUd/agent-harness-frontendmasters.pdf)
 - [Practical Prompt Engineering](https://static.frontendmasters.com/ud/c/c950c27f41/QrhipoBEtR/prompt-engineering.pdf)
 - [Complete Intro to MCP](https://static.frontendmasters.com/ud/c/c950c27f41/HVXvpeXurf/mcp.pdf)
 - [Cursor & Claude Code: Professional AI Setup](https://static.frontendmasters.com/ud/c/c950c27f41/OkWJDOLXlV/pro-ai.pdf)
