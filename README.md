@@ -91,7 +91,16 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### 🚀 Experience Highlights
 
-- 🏢 **Zillow** (Aug 2024 - Present) — AI Engineer | SQE | Engineering Operations Lead
+- 🏢 **Worth AI** (Apr 2026 - Present) - Sr Software Engineer | DevEx and Quality - Team Lead
+  - Leading engineering team focusing on AI automation and quality serving largest financial institutions 
+  - Prioritizing projects and directing quality initiatives 
+  - Built multi-agent AI orchestrator to analyze SDLC gaps and areas for engineering improvement
+  - Improving DevEx (Developers Experience) by implementing custom slack bots, setting up guidelines,  policies and quality gates
+ 
+- 🏢 **Self-emmployed** (Jan 2026 - Present) — AI Automation Engineer |  AI LLM Quality Evaluation
+  - Working on projects I’m genuinely passionate about: AI engineering for developer productivity, test automation, and platform reliability.
+
+- 🏢 **Zillow** (Aug 2024 - Jan 2026) — DevEx | AI LLM Quality Evaluation Engineer
   - Designed and optimized RAG AI agents and AI workflow automation solutions
   - Developed observability dashboards using Datadog, Splunk, Grafana, and Databricks
   - Mentored teams on test automation best practices (Playwright, XCUITest, Espresso, Pact.io)
