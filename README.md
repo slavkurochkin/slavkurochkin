@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Slav Kurochkin 👋</h1>
 
 <p align="center">
-  <b>AI Engineer • Lead SQE / SDET • Engineering Operations </b><br>
+  <b>AI Engineer • DevEx • SDET </b><br>
   Building AI-powered solutions, optimizing engineering operations, and leading quality-first cultures.
 </p>
 
@@ -17,8 +17,8 @@
 ### 🧠 What I Do
 
 - 🤖 **AI Engineering** — RAG Systems • AI Agents • LLM Evaluation • LangChain • LangSmith • Promptfoo • MLflow • n8n • AI Tools
-- ⚙️ **Engineering Operations** — CI/CD Optimization • Observability Dashboards • Cross-Functional Leadership • Team Mentoring • AI Tools
-- 🔍 **Quality Engineering and Test Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
+- ⚙️ **DevEx** — CI/CD Optimization • Observability Dashboards • Cross-Functional Leadership • Team Mentoring • AI Tools
+- 🔍 **Quality and Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
 
 
 ---
