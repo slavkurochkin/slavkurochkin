@@ -92,10 +92,11 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 ### 🚀 Experience Highlights
 
 - 🏢 **Worth AI** (Apr 2026 - Present) - Sr Software Engineer | DevEx and Quality - Team Lead
-  - Leading engineering team focusing on AI automation and quality serving largest financial institutions 
-  - Prioritizing projects and directing quality initiatives 
-  - Built multi-agent AI orchestrator to analyze SDLC gaps and areas for engineering improvement
-  - Improving DevEx (Developers Experience) by implementing custom slack bots, setting up guidelines,  policies and quality gates
+  - Lead engineering initiatives focused on AI automation and quality for teams serving some of the world’s largest financial institutions.
+  - Prioritize strategic initiatives and direct cross-functional quality programs across engineering teams.
+  - Built a multi-agent AI orchestrator to identify SDLC gaps, surface engineering inefficiencies, and recommend targeted improvements.
+  - Drive improvements in DORA metrics through automation, engineering practices, and collaboration with technical leaders.
+  - Improve Developer Experience by building custom bots, slack automation and establishing engineering guidelines, policies, and quality gates.
  
 - 🏢 **Self-emmployed** (Jan 2026 - Present) — AI Automation Engineer |  AI LLM Quality Evaluation
   - Working on projects I’m genuinely passionate about: AI engineering for developer productivity, test automation, and platform reliability.
