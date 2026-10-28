@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineer • DevEx • SDET </b><br>
-  Building AI-powered solutions, optimizing engineering operations, and leading quality-first cultures.
+  Building AI-powered solutions, optimizing engineering operations, and leading teams.
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ---
 
-### 🧠 What I Do
-
-- 🤖 **AI Engineering** — RAG Systems • AI Agents • LLM Evaluation • LangChain • LangSmith • Promptfoo • MLflow • n8n • AI Tools
-- ⚙️ **DevEx** — CI/CD Optimization • Observability Dashboards • Cross-Functional Leadership • Team Mentoring • AI Tools
-- 🔍 **Quality and Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
+### What I Do
+- **Leading Teams** - Hiring • Coaching • Managing Performance • Prioritizing work
+- **AI Engineering** — RAG Systems • AI Agents • LLM Evaluation • LangChain • LangSmith • Promptfoo • MLflow • n8n • AI Tools
+- **DevEx** — CI/CD Optimization • Observability Dashboards • Cross-Functional Leadership • Team Mentoring • AI Tools
+- **Quality and Automation** — Test Automation • Observability • Shift-Left Initiatives • DORA Metrics • AI-Powered Testing
 
 
 ---
@@ -91,17 +91,16 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ### 🚀 Experience Highlights
 
-- 🏢 **Worth AI** (Apr 2026 - Present) - Sr Software Engineer | DevEx and Quality - Team Lead
-  - Lead engineering initiatives focused on AI automation and quality for teams serving some of the world’s largest financial institutions.
+- 🏢 **Worth AI** (Apr 2026 - Present) - Engineering Manager | AI Automation, Tooling and Quality
+  - Lead engineering team with focus on AI automation tools and quality.
+  - Manage direct reports, including performance, hiring, and career development.
   - Prioritize strategic initiatives and direct cross-functional quality programs across engineering teams.
-  - Built a multi-agent AI orchestrator to identify SDLC gaps, surface engineering inefficiencies, and recommend targeted improvements.
+  - Built AI agent to identify SDLC gaps, surface engineering inefficiencies, and recommend targeted improvements.
   - Drive improvements in DORA metrics through automation, engineering practices, and collaboration with technical leaders.
   - Improve Developer Experience by building custom bots, slack automation and establishing engineering guidelines, policies, and quality gates.
+  - Improve CI/CD release processes through automation and policies.
  
-- 🏢 **Self-emmployed** (Jan 2026 - Present) — AI Automation Engineer |  AI LLM Quality Evaluation
-  - Working on projects I’m genuinely passionate about: AI engineering for developer productivity, test automation, and platform reliability.
-
-- 🏢 **Zillow** (Aug 2024 - Jan 2026) — DevEx | AI LLM Quality Evaluation Engineer
+- 🏢 **Zillow** (Aug 2024 - Jan 2026) — Sr Software Engineer | DevEx
   - Designed and optimized RAG AI agents and AI workflow automation solutions
   - Developed observability dashboards using Datadog, Splunk, Grafana, and Databricks
   - Mentored teams on test automation best practices (Playwright, XCUITest, Espresso, Pact.io)
@@ -112,7 +111,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
   - Spearheaded shift-left initiatives across 10 engineering teams
   
 
-- 🏢 **LTK** (May 2022 - Aug 2024) — Staff Software Quality Engineer - SDET
+- 🏢 **LTK** (May 2022 - Aug 2024) — Staff Software Engineer - SDET
   - Achieved 85% reduction in customer-reported bugs and $1M+ annual savings
   - Led high-performing team using data-driven methodologies (KPIs, OKRs)
   - Increased test automation coverage by 40% and reduced CI costs by 35%
