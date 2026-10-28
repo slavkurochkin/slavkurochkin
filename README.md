@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 Tech Stack
+### Tech Stack
 
 ```ts
 Languages:   Python, JavaScript, TypeScript, Java, C#, Go, Swift, Kotlin
@@ -42,7 +42,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### AI Engineering
 
@@ -89,7 +89,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-### 🚀 Experience Highlights
+### Experience Highlights
 
 - 🏢 **Worth AI** (Apr 2026 - Present) - Engineering Manager | AI Automation, Tooling and Quality
   - Lead engineering team with focus on AI automation tools and quality.
@@ -126,7 +126,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slavkurochkin&show_icons=true&theme=radical&hide=stars&hide_border=true" alt="Slav's GitHub stats" />
@@ -140,7 +140,7 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 **Anthropic**
 - [MCP Advanced Topics](https://verify.skilljar.com/c/6j3yvgspk8cn)
@@ -184,9 +184,9 @@ Tools:       Git, n8n, Glean, Cursor, Postman, Burp Suite, JMeter, Locust.io
 
 ---
 
-### 💬 Let's Connect
+### Let's Connect
 
-- 🌐 Blog → [93days.me](http://93days.me)
+- 🌐 Website → [evaleng.com](http://evaleng.com)
 - 💼 LinkedIn → [linkedin.com/in/slavkurochkin](https://www.linkedin.com/in/slavkurochkin/)
 - 💻 GitHub → [github.com/slavkurochkin](https://github.com/slavkurochkin)
 - 📺 YouTube → [@SlavKurochkin](https://www.youtube.com/@SlavKurochkin)
