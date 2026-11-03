@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/slavkurochkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/slavkurochkin" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@SlavKurochkin" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="http://evaleng.com" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://evaleng.com/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
